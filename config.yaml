@@ -1,0 +1,16 @@
+name: hpython
+version: 1
+
+libraries:
+- name: "webpy"
+  version: "0.36"
+  
+- name: "lxml"
+  version: "2.3.4"
+
+- name: "MySQLdb"
+  version:  "1.2.3"
+  
+- name: "skylark"
+  version:  "0.9.1"
+  
